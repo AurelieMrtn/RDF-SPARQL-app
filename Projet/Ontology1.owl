@@ -13,476 +13,476 @@
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Action"/>
+        <Class IRI="#Action"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Actor"/>
+        <Class IRI="#Actor"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Comedy"/>
+        <Class IRI="#Comedy"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Crime"/>
+        <Class IRI="#Crime"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Director"/>
+        <Class IRI="#Director"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Drama"/>
+        <Class IRI="#Drama"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+        <Class IRI="#Movie"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Person"/>
+        <Class IRI="#Person"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Thriller"/>
+        <Class IRI="#Thriller"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Writer"/>
+        <Class IRI="#Writer"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Genre"/>
+        <Class IRI="#Genre"/>
     </Declaration>
     <Declaration>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Theater"/>
+        <Class IRI="#Theater"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasActor"/>
+        <ObjectProperty IRI="#hasActor"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasDirector"/>
+        <ObjectProperty IRI="#hasDirector"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasWriter"/>
+        <ObjectProperty IRI="#hasWriter"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isActorOf"/>
+        <ObjectProperty IRI="#isActorOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isDirectorOf"/>
+        <ObjectProperty IRI="#isDirectorOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isWriterOf"/>
+        <ObjectProperty IRI="#isWriterOf"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#hasGenre"/>
+        <ObjectProperty IRI="#hasGenre"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Age"/>
+        <DataProperty IRI="#Age"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Country"/>
+        <DataProperty IRI="#Country"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Location"/>
+        <DataProperty IRI="#Location"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Nationality"/>
+        <DataProperty IRI="#Nationality"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Year"/>
+        <DataProperty IRI="#Year"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Language"/>
+        <DataProperty IRI="#Language"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Sexe"/>
+        <DataProperty IRI="#Sexe"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#John_Travolta"/>
+        <NamedIndividual IRI="#John_Travolta"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Kill_Bill_Volume1"/>
+        <NamedIndividual IRI="#Kill_Bill_Volume1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Pulp_Fiction"/>
+        <NamedIndividual IRI="#Pulp_Fiction"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Quentin_Tarantino"/>
+        <NamedIndividual IRI="#Quentin_Tarantino"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Uma_Thurman"/>
+        <NamedIndividual IRI="#Uma_Thurman"/>
     </Declaration>
     <EquivalentClasses>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Actor"/>
+        <Class IRI="#Actor"/>
         <ObjectMinCardinality cardinality="1">
-            <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isActorOf"/>
-            <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+            <ObjectProperty IRI="#isActorOf"/>
+            <Class IRI="#Movie"/>
         </ObjectMinCardinality>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Director"/>
+        <Class IRI="#Director"/>
         <ObjectMinCardinality cardinality="1">
-            <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isDirectorOf"/>
-            <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+            <ObjectProperty IRI="#isDirectorOf"/>
+            <Class IRI="#Movie"/>
         </ObjectMinCardinality>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+        <Class IRI="#Movie"/>
         <ObjectMinCardinality cardinality="1">
-            <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#hasGenre"/>
-            <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Genre"/>
+            <ObjectProperty IRI="#hasGenre"/>
+            <Class IRI="#Genre"/>
         </ObjectMinCardinality>
     </EquivalentClasses>
     <EquivalentClasses>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Writer"/>
+        <Class IRI="#Writer"/>
         <ObjectMinCardinality cardinality="1">
-            <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isWriterOf"/>
-            <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+            <ObjectProperty IRI="#isWriterOf"/>
+            <Class IRI="#Movie"/>
         </ObjectMinCardinality>
     </EquivalentClasses>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Action"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Genre"/>
+        <Class IRI="#Action"/>
+        <Class IRI="#Genre"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Actor"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Person"/>
+        <Class IRI="#Actor"/>
+        <Class IRI="#Person"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Comedy"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Genre"/>
+        <Class IRI="#Comedy"/>
+        <Class IRI="#Genre"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Crime"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Genre"/>
+        <Class IRI="#Crime"/>
+        <Class IRI="#Genre"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Director"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Person"/>
+        <Class IRI="#Director"/>
+        <Class IRI="#Person"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Drama"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Genre"/>
+        <Class IRI="#Drama"/>
+        <Class IRI="#Genre"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Thriller"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Genre"/>
+        <Class IRI="#Thriller"/>
+        <Class IRI="#Genre"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Writer"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Person"/>
+        <Class IRI="#Writer"/>
+        <Class IRI="#Person"/>
     </SubClassOf>
     <SubClassOf>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Genre"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+        <Class IRI="#Genre"/>
+        <Class IRI="#Movie"/>
     </SubClassOf>
     <DisjointClasses>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Person"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Theater"/>
+        <Class IRI="#Movie"/>
+        <Class IRI="#Person"/>
+        <Class IRI="#Theater"/>
     </DisjointClasses>
     <ClassAssertion>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Actor"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#John_Travolta"/>
+        <Class IRI="#Actor"/>
+        <NamedIndividual IRI="#John_Travolta"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Action"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Kill_Bill_Volume1"/>
+        <Class IRI="#Action"/>
+        <NamedIndividual IRI="#Kill_Bill_Volume1"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Crime"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Kill_Bill_Volume1"/>
+        <Class IRI="#Crime"/>
+        <NamedIndividual IRI="#Kill_Bill_Volume1"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Thriller"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Kill_Bill_Volume1"/>
+        <Class IRI="#Thriller"/>
+        <NamedIndividual IRI="#Kill_Bill_Volume1"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Crime"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Pulp_Fiction"/>
+        <Class IRI="#Crime"/>
+        <NamedIndividual IRI="#Pulp_Fiction"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Thriller"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Pulp_Fiction"/>
+        <Class IRI="#Thriller"/>
+        <NamedIndividual IRI="#Pulp_Fiction"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Actor"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Quentin_Tarantino"/>
+        <Class IRI="#Actor"/>
+        <NamedIndividual IRI="#Quentin_Tarantino"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Director"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Quentin_Tarantino"/>
+        <Class IRI="#Director"/>
+        <NamedIndividual IRI="#Quentin_Tarantino"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Writer"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Quentin_Tarantino"/>
+        <Class IRI="#Writer"/>
+        <NamedIndividual IRI="#Quentin_Tarantino"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Actor"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Uma_Thurman"/>
+        <Class IRI="#Actor"/>
+        <NamedIndividual IRI="#Uma_Thurman"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Writer"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Uma_Thurman"/>
+        <Class IRI="#Writer"/>
+        <NamedIndividual IRI="#Uma_Thurman"/>
     </ClassAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isActorOf"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#John_Travolta"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Pulp_Fiction"/>
+        <ObjectProperty IRI="#isActorOf"/>
+        <NamedIndividual IRI="#John_Travolta"/>
+        <NamedIndividual IRI="#Pulp_Fiction"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isDirectorOf"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Quentin_Tarantino"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Pulp_Fiction"/>
+        <ObjectProperty IRI="#isDirectorOf"/>
+        <NamedIndividual IRI="#Quentin_Tarantino"/>
+        <NamedIndividual IRI="#Pulp_Fiction"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isWriterOf"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Quentin_Tarantino"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Pulp_Fiction"/>
+        <ObjectProperty IRI="#isWriterOf"/>
+        <NamedIndividual IRI="#Quentin_Tarantino"/>
+        <NamedIndividual IRI="#Pulp_Fiction"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isActorOf"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Uma_Thurman"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Pulp_Fiction"/>
+        <ObjectProperty IRI="#isActorOf"/>
+        <NamedIndividual IRI="#Uma_Thurman"/>
+        <NamedIndividual IRI="#Pulp_Fiction"/>
     </ObjectPropertyAssertion>
     <ObjectPropertyAssertion>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isWriterOf"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Uma_Thurman"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Kill_Bill_Volume1"/>
+        <ObjectProperty IRI="#isWriterOf"/>
+        <NamedIndividual IRI="#Uma_Thurman"/>
+        <NamedIndividual IRI="#Kill_Bill_Volume1"/>
     </ObjectPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Age"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#John_Travolta"/>
+        <DataProperty IRI="#Age"/>
+        <NamedIndividual IRI="#John_Travolta"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">59</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Nationality"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#John_Travolta"/>
+        <DataProperty IRI="#Nationality"/>
+        <NamedIndividual IRI="#John_Travolta"/>
         <Literal>American</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Sexe"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#John_Travolta"/>
+        <DataProperty IRI="#Sexe"/>
+        <NamedIndividual IRI="#John_Travolta"/>
         <Literal>Male</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Country"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Kill_Bill_Volume1"/>
+        <DataProperty IRI="#Country"/>
+        <NamedIndividual IRI="#Kill_Bill_Volume1"/>
         <Literal>USA</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Year"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Kill_Bill_Volume1"/>
+        <DataProperty IRI="#Year"/>
+        <NamedIndividual IRI="#Kill_Bill_Volume1"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2003</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Language"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Kill_Bill_Volume1"/>
+        <DataProperty IRI="#Language"/>
+        <NamedIndividual IRI="#Kill_Bill_Volume1"/>
         <Literal>English</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Country"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Pulp_Fiction"/>
+        <DataProperty IRI="#Country"/>
+        <NamedIndividual IRI="#Pulp_Fiction"/>
         <Literal>USA</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Year"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Pulp_Fiction"/>
+        <DataProperty IRI="#Year"/>
+        <NamedIndividual IRI="#Pulp_Fiction"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">1994</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Language"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Pulp_Fiction"/>
+        <DataProperty IRI="#Language"/>
+        <NamedIndividual IRI="#Pulp_Fiction"/>
         <Literal>English</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Age"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Quentin_Tarantino"/>
+        <DataProperty IRI="#Age"/>
+        <NamedIndividual IRI="#Quentin_Tarantino"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">53</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Nationality"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Quentin_Tarantino"/>
+        <DataProperty IRI="#Nationality"/>
+        <NamedIndividual IRI="#Quentin_Tarantino"/>
         <Literal>American</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Sexe"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Quentin_Tarantino"/>
+        <DataProperty IRI="#Sexe"/>
+        <NamedIndividual IRI="#Quentin_Tarantino"/>
         <Literal>Male</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Age"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Uma_Thurman"/>
+        <DataProperty IRI="#Age"/>
+        <NamedIndividual IRI="#Uma_Thurman"/>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">43</Literal>
     </DataPropertyAssertion>
     <DataPropertyAssertion>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Sexe"/>
-        <NamedIndividual IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Uma_Thurman"/>
+        <DataProperty IRI="#Sexe"/>
+        <NamedIndividual IRI="#Uma_Thurman"/>
         <Literal>Female</Literal>
     </DataPropertyAssertion>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasActor"/>
+        <ObjectProperty IRI="#hasActor"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasDirector"/>
+        <ObjectProperty IRI="#hasDirector"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasWriter"/>
+        <ObjectProperty IRI="#hasWriter"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isActorOf"/>
+        <ObjectProperty IRI="#isActorOf"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isDirectorOf"/>
+        <ObjectProperty IRI="#isDirectorOf"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <SubObjectPropertyOf>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isWriterOf"/>
+        <ObjectProperty IRI="#isWriterOf"/>
         <ObjectProperty abbreviatedIRI="owl:topObjectProperty"/>
     </SubObjectPropertyOf>
     <InverseObjectProperties>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasActor"/>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isActorOf"/>
+        <ObjectProperty IRI="#hasActor"/>
+        <ObjectProperty IRI="#isActorOf"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasDirector"/>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isDirectorOf"/>
+        <ObjectProperty IRI="#hasDirector"/>
+        <ObjectProperty IRI="#isDirectorOf"/>
     </InverseObjectProperties>
     <InverseObjectProperties>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasWriter"/>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isWriterOf"/>
+        <ObjectProperty IRI="#hasWriter"/>
+        <ObjectProperty IRI="#isWriterOf"/>
     </InverseObjectProperties>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasActor"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+        <ObjectProperty IRI="#hasActor"/>
+        <Class IRI="#Movie"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasDirector"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+        <ObjectProperty IRI="#hasDirector"/>
+        <Class IRI="#Movie"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasWriter"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+        <ObjectProperty IRI="#hasWriter"/>
+        <Class IRI="#Movie"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isActorOf"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Actor"/>
+        <ObjectProperty IRI="#isActorOf"/>
+        <Class IRI="#Actor"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isDirectorOf"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Director"/>
+        <ObjectProperty IRI="#isDirectorOf"/>
+        <Class IRI="#Director"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isWriterOf"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Writer"/>
+        <ObjectProperty IRI="#isWriterOf"/>
+        <Class IRI="#Writer"/>
     </ObjectPropertyDomain>
     <ObjectPropertyDomain>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#hasGenre"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+        <ObjectProperty IRI="#hasGenre"/>
+        <Class IRI="#Movie"/>
     </ObjectPropertyDomain>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasActor"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Actor"/>
+        <ObjectProperty IRI="#hasActor"/>
+        <Class IRI="#Actor"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasDirector"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Director"/>
+        <ObjectProperty IRI="#hasDirector"/>
+        <Class IRI="#Director"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#hasWriter"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Writer"/>
+        <ObjectProperty IRI="#hasWriter"/>
+        <Class IRI="#Writer"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isActorOf"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+        <ObjectProperty IRI="#isActorOf"/>
+        <Class IRI="#Movie"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isDirectorOf"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+        <ObjectProperty IRI="#isDirectorOf"/>
+        <Class IRI="#Movie"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#isWriterOf"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+        <ObjectProperty IRI="#isWriterOf"/>
+        <Class IRI="#Movie"/>
     </ObjectPropertyRange>
     <ObjectPropertyRange>
-        <ObjectProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#hasGenre"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Genre"/>
+        <ObjectProperty IRI="#hasGenre"/>
+        <Class IRI="#Genre"/>
     </ObjectPropertyRange>
     <SubDataPropertyOf>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Age"/>
+        <DataProperty IRI="#Age"/>
         <DataProperty abbreviatedIRI="owl:topDataProperty"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Country"/>
+        <DataProperty IRI="#Country"/>
         <DataProperty abbreviatedIRI="owl:topDataProperty"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Location"/>
+        <DataProperty IRI="#Location"/>
         <DataProperty abbreviatedIRI="owl:topDataProperty"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Nationality"/>
+        <DataProperty IRI="#Nationality"/>
         <DataProperty abbreviatedIRI="owl:topDataProperty"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Year"/>
+        <DataProperty IRI="#Year"/>
         <DataProperty abbreviatedIRI="owl:topDataProperty"/>
     </SubDataPropertyOf>
     <SubDataPropertyOf>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Language"/>
+        <DataProperty IRI="#Language"/>
         <DataProperty abbreviatedIRI="owl:topDataProperty"/>
     </SubDataPropertyOf>
     <DataPropertyDomain>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Age"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Person"/>
+        <DataProperty IRI="#Age"/>
+        <Class IRI="#Person"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Country"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+        <DataProperty IRI="#Country"/>
+        <Class IRI="#Movie"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Location"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Theater"/>
+        <DataProperty IRI="#Location"/>
+        <Class IRI="#Theater"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Nationality"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Person"/>
+        <DataProperty IRI="#Nationality"/>
+        <Class IRI="#Person"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Year"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+        <DataProperty IRI="#Year"/>
+        <Class IRI="#Movie"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Language"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Movie"/>
+        <DataProperty IRI="#Language"/>
+        <Class IRI="#Movie"/>
     </DataPropertyDomain>
     <DataPropertyDomain>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Sexe"/>
-        <Class IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Person"/>
+        <DataProperty IRI="#Sexe"/>
+        <Class IRI="#Person"/>
     </DataPropertyDomain>
     <DataPropertyRange>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Age"/>
+        <DataProperty IRI="#Age"/>
         <Datatype abbreviatedIRI="xsd:integer"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Country"/>
+        <DataProperty IRI="#Country"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Location"/>
+        <DataProperty IRI="#Location"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Nationality"/>
+        <DataProperty IRI="#Nationality"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-21#Year"/>
+        <DataProperty IRI="#Year"/>
         <Datatype abbreviatedIRI="xsd:integer"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Language"/>
+        <DataProperty IRI="#Language"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
     <DataPropertyRange>
-        <DataProperty IRI="http://www.semanticweb.org/aurel/ontologies/2023/2/untitled-ontology-48#Sexe"/>
+        <DataProperty IRI="#Sexe"/>
         <Datatype abbreviatedIRI="xsd:string"/>
     </DataPropertyRange>
 </Ontology>
